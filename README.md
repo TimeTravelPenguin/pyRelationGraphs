@@ -4,3 +4,5 @@
 
 REQUIREMENTS
 To use this, you must have matplotlib and numpy installed. Be sure to google how if you are unsure.
+
+![](./Demo.png)
